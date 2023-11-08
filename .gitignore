@@ -1,0 +1,7 @@
+# ignore the .vscode folder
+.vscode
+GeneratingEmbeddings/__pycache__
+GeneratingEmbeddings/dataset
+GeneratingEmbeddings/bert_embeddings
+GeneratingEmbeddings/T5_embeddings
+GeneratingEmbeddings/Indexes
