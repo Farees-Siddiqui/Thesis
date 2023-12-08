@@ -5,3 +5,8 @@ GeneratingEmbeddings/dataset
 GeneratingEmbeddings/bert_embeddings
 GeneratingEmbeddings/T5_embeddings
 GeneratingEmbeddings/Indexes
+GeneratingEmbeddings/bert_medium_embeddings
+GeneratingEmbeddings/bert_tiny_embeddings
+GeneratingEmbeddings/bert_mini_embeddings
+GeneratingEmbeddings/fasttext_embeddings
+GeneratingEmbeddings/gpt2_embeddings
