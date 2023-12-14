@@ -10,3 +10,4 @@ GeneratingEmbeddings/bert_tiny_embeddings
 GeneratingEmbeddings/bert_mini_embeddings
 GeneratingEmbeddings/fasttext_embeddings
 GeneratingEmbeddings/gpt2_embeddings
+GeneratingEmbeddings/bert_title_embeddings
